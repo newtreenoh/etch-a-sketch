@@ -24,4 +24,5 @@ By default, the game grid is 16 squares wide and 16 squares tall. The user can d
 - Multiple Options: Hold down the "Ctrl" key while clicking on any of the above buttons to enable multiple options at once.
 
 ## Contributing
-This project is not open for contributions as of now.
+Please note that this project is not currently open for contribution. However, if you have any suggestions or feedback for the project, feel free to get in touch.
+

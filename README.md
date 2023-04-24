@@ -2,7 +2,7 @@
 
 Live demo: https://newtreenoh.github.io/etch-a-sketch/
 
-##Intro
+#Intro
 This project is a browser-based Etch-a-Sketch game built using HTML, CSS, and JavaScript. The user can draw on the grid, resize the grid, and clear the grid to start again. Additional features include a colorful version, a gradient version, random shapes within the grid, and adjustable opacity for colored cells.
 
 ##Getting Started

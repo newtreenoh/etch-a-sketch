@@ -4,13 +4,13 @@
 https://newtreenoh.github.io/etch-a-sketch/
 
 ## Intro
-This project is a browser-based Etch-a-Sketch game built using HTML, CSS, and JavaScript. The user can draw on the grid, resize the grid, and clear the grid to start again. Additional features include a colorful version, a gradient version, random shapes within the grid, and adjustable opacity for colored cells.
+This project is a browser-based Etch-a-Sketch game built using HTML, CSS, and JavaScript. The user can draw on the grid, resize the grid, and clear the grid to start again. Additional features could include a colorful version, a gradient version, random shapes within the grid, and adjustable opacity for colored cells. More information on additional features is listed below for reference.
 
 ## Getting Started
-To use this project, you need a modern web browser with support for HTML5, CSS3, and JavaScript. Simply open the demo link above in your browser.
+To use this project, you need a web browser with support for HTML5, CSS3, and JavaScript. Simply open the demo link above in your browser.
 
 ## Usage
-By default, the game grid is 16 squares wide and 16 squares tall. The user can draw on the grid by clicking and dragging the mouse over the squares. To resize the grid, click on the "Resize Grid" button and enter the desired number of squares in each direction. To clear the grid, click on the "Clear Grid" button.
+By default, the game grid is 16 squares wide and 16 squares tall. The user can draw on the grid by hovering the mouse over the squares. To resize the grid, click on the "Resize" button and enter the desired number of squares. E.g. If you enter 10, a 10x10 grid would be created. To clear the grid, click on the "Clear" button.
 
 ## Additional Features
 - Colorful Version: Click on the "Colour" button to switch to a version where each square is randomly assigned a different color.
